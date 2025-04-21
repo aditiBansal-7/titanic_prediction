@@ -91,7 +91,7 @@ docker run -p 8501:8501 titanic-prediction
 
 ### 4️⃣ Access the Application
 Open your browser and navigate to:  
-👉 **http://localhost:8501**
+👉 **https://titanicprediction-hcqumhegbvnngti6jfkkgq.streamlit.app/**
 
 ---
 ![image](https://github.com/user-attachments/assets/9209e79e-6852-4952-a0e6-92b5b1b6034a)
